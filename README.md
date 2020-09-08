@@ -10,4 +10,4 @@ In order to study its efficiency and its users, I designed an interactive densit
 The data were retrieved via Lyft official website. The points shown in the second graph were randomly selected (200 out of thousands of available points) in order to stay under the app size limit of 1 GB. 
 
 ## Final Product
-Click here: https://keunyoungko.shinyapps.io/gobike_trend/
+Click here: https://keunyoungko.shinyapps.io/gobike_renewed/
